@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Grok Tab",
+  "version": "1.0",
+  "description": "Redirects new tabs to grok.com",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
