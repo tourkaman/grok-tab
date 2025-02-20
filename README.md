@@ -1,2 +1,2 @@
-# grok-new-tab
+# grok-tab
 grok.com every new Firefox tab
